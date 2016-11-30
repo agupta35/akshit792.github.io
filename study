@@ -48,8 +48,8 @@ li a:hover {
 <body>
   <div>Welcome to Eduweb</div><br>
  <ul>
-  <li><a  href="#home">Home</a></li>
-  <li><a class="active" href="#news">News</a></li>
+  <li><a  href="https://akshit792.github.io/index">Home</a></li>
+  <li><a class="active" href="https://akshit792.github.io/study">Study</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
